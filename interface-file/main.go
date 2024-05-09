@@ -6,8 +6,7 @@ import (
 	"os"
 )
 
-type writer struct {
-}
+type writer struct{}
 
 func main() {
 	p := []string{}
